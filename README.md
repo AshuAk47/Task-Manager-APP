@@ -1,9 +1,9 @@
-# MERN Stack | Login, Register and CRUD app
+# TASK MANAGER APP using MERN
 Simlple example of user registration, login and CRUD action with backend restAPI using mongoDB, Nodejs(Express.js) and mongoose, authentication using JWT token also pagination and frontend using react.js and material-ui api calling with axios.
 
-[![flow](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/development/MERN.gif)](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/development/MERN.gif)
 
-### This Project is a Simple ReactJS Project which demonstrates the following
+
+### This Project is a Simple ReactJS Project  of TASK MANAGER which demonstrates the following
 ##### Backend
 - API to register and login user.
 - API using which loged in user can add, edit and update it's product.
@@ -26,12 +26,7 @@ Below noted things you need to install to run this project in your system
 - MongoDB
 
 ### To Setup
-Clone or download this repository
-
-1. `cd Registration-and-Login-using-MERN-stack/backend`
-2. `npm install`
-3. `cd Registration-and-Login-using-MERN-stack/frontend`
-4. `npm install`
+you need to install mongodb , node js and npm
 
 ### To Run
 To run node server
@@ -51,4 +46,3 @@ To run react frontend
 ### Product Pagination screen
 [![dashboard](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/master/dashboard.png)](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/master/dashboard.png) -->
 
-### Do not forget to leave a star! :hugs:
