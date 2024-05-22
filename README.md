@@ -27,22 +27,19 @@ Below noted things you need to install to run this project in your system
 
 ### To Setup
 you need to install mongodb , node js and npm
+1.Go to backend project directory
+npm install
+2. go to  frontend directory and install dependencies
+npm install
 
 ### To Run
 To run node server
-1. `cd Registration-and-Login-using-MERN-stack/backend`
+1. `cd task manager web app/backend`
 2. `node server.js`
 
 To run react frontend
-1. `cd Registration-and-Login-using-MERN-stack/frontend`
+1. `cd task manager web app/frontend`
 2. `npm start`
 
-<!-- ### Login and Register screen
-[![login](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/master/login.png)](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/master/login.png)[![register](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/master/register.png)](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/master/register.png)
 
-### Product Add and Edit screen
-[![add](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/master/add.png)](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/master/add.png)  [![edit](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/master/edit.png)](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/master/edit.png)
-
-### Product Pagination screen
-[![dashboard](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/master/dashboard.png)](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/master/dashboard.png) -->
 
