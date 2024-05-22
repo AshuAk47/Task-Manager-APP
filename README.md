@@ -27,9 +27,12 @@ Below noted things you need to install to run this project in your system
 
 ### To Setup
 you need to install mongodb , node js and npm
+
 1.Go to backend project directory
+
 npm install
 2. go to  frontend directory and install dependencies
+
 npm install
 
 ### To Run
